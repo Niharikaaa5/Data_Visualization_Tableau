@@ -1,2 +1,3 @@
 # DSA_ASSIGNMENT
-Data Visualization
+Data Visualization of titanic and coffee datasets
+
