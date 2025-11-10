@@ -12,23 +12,24 @@ Hands-On: Titanic Dataset – Visualization Tasks
 
 COFFEE CHAIN DATASET
 
-(i) Create a heat map for Product Type, State, and Profit. Identify which state has the lowest profit for Espresso? 
-(ii) Using boxplot, identify which of the Espresso product has the highest distribution of sales? 
-(iii)Create a bar chart with Product Type, Product, and Profit. Write your conclusion.
-(iv) Create a scatter plot with State, Sales, and Profit. Draw your conclusion. 
-(v) Identify the state with the highest and the lowest profit in the market? 
-(vi) What is the number of Sales in the state Nevada for the product Decaf Expresso? 
-(vii) What is the contribution of tea (in percentage) to the overall Profit? 
-(viii) What is the average marketing in the area code 660 and 818? 
-(ix) In California, which is the product with highest and lowest profit? 
-(x) Identify through side-by-side circles, the minimum marketing for the Coffee Beans Colombian product. 
-(xi) What is the contribution of sales in the East market for Decaf? 
-(xii) In 2012, what is the contribution of sales in the East market for Decaf? 
-(xiii) What is the average profit for all the products starting with C? 
-(xiv) In the Central region, the Top 5 Products by sales contributed _____ % of the total sales. 
-(xv) In 2013, identify the state with the highest profit in the West market. 
-(xvi) Identify the total expenses to sales ratio of the state with the lowest profit. 
-(xvii) What is the distinct count of area codes for the state with the lowest budget margin in small markets? 
-(xviii) In 2013, what is the percentage of total profit for Caffe Mocha falling under Major Market? 
-(xix) In which month and year did the sales cross $1,100 for Decaf in Colorado as well as Florida? 
-(xx) Using tree maps, identify the market with its size having maximum budget sales.
+1. Create a heat map for Product Type, State, and Profit. Identify which state has the lowest profit for Espresso?
+2. Using boxplot, identify which of the Espresso product has the highest distribution of sales?
+3. Create a bar chart with Product Type, Product, and Profit. Write your conclusion.
+4. Create a scatter plot with State, Sales, and Profit. Draw your conclusion. 
+5. Identify the state with the highest and the lowest profit in the market? 
+6. What is the number of Sales in the state Nevada for the product Decaf Expresso? 
+7. What is the contribution of tea (in percentage) to the overall Profit? 
+8. What is the average marketing in the area code 660 and 818? 
+9. In California, which is the product with highest and lowest profit? 
+10. Identify through side-by-side circles, the minimum marketing for the Coffee Beans Colombian product. 
+11. What is the contribution of sales in the East market for Decaf? 
+12. In 2012, what is the contribution of sales in the East market for Decaf? 
+13. What is the average profit for all the products starting with C? 
+14. In the Central region, the Top 5 Products by sales contributed _____ % of the total sales. 
+15. In 2013, identify the state with the highest profit in the West market. 
+16. Identify the total expenses to sales ratio of the state with the lowest profit. 
+17. What is the distinct count of area codes for the state with the lowest budget margin in small markets? 
+18. In 2013, what is the percentage of total profit for Caffe Mocha falling under Major Market? 
+19. In which month and year did the sales cross $1,100 for Decaf in Colorado as well as Florida? 
+20. Using tree maps, identify the market with its size having maximum budget sales.
+
